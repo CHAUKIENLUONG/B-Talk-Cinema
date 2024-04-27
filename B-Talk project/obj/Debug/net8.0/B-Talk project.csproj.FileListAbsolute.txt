@@ -1,0 +1,31 @@
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\appsettings.Development.json
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\appsettings.json
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.staticwebassets.runtime.json
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.exe
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.deps.json
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.runtimeconfig.json
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.dll
+D:\source\repos\B-Talk project\B-Talk project\bin\Debug\net8.0\B-Talk project.pdb
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.AssemblyInfoInputs.cache
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.AssemblyInfo.cs
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.csproj.CoreCompileInputs.cache
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.RazorAssemblyInfo.cache
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.RazorAssemblyInfo.cs
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets.build.json
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets.development.json
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets\msbuild.B-Talk project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets\msbuild.build.B-Talk project.props
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.B-Talk project.props
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.B-Talk project.props
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\scopedcss\bundle\B-Talk project.styles.css
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\scopedcss\projectbundle\B-Talk project.bundle.scp.css
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.dll
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\refint\B-Talk project.dll
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.pdb
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\B-Talk project.genruntimeconfig.cache
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\ref\B-Talk project.dll
+D:\source\repos\B-Talk project\B-Talk project\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCustomer.cshtml.rz.scp.css

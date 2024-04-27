@@ -1,0 +1,134 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>B_Talk_project</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="fonts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\bootstrap.min.css" />
+    <None Include="wwwroot\assets\css\colors.css" />
+    <None Include="wwwroot\assets\css\font-awesome.min.css" />
+    <None Include="wwwroot\assets\css\jquery.mmenu.css" />
+    <None Include="wwwroot\assets\css\magnific-popup.css" />
+    <None Include="wwwroot\assets\css\owl.carousel.min.css" />
+    <None Include="wwwroot\assets\css\owl.video.play.html" />
+    <None Include="wwwroot\assets\css\responsive.css" />
+    <None Include="wwwroot\assets\css\simple-line-icons.css" />
+    <None Include="wwwroot\assets\css\style.css" />
+    <None Include="wwwroot\assets\css\themify-icons.css" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont3e6e.eot" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont3e6e.svg" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont3e6e.ttf" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont3e6e.woff" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfont3e6e.woff2" />
+    <None Include="wwwroot\assets\fonts\fontawesome-webfontd41d.eot" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Iconsb26c.eot" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Iconsb26c.svg" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Iconsb26c.ttf" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Iconsb26c.woff" />
+    <None Include="wwwroot\assets\fonts\Simple-Line-Iconsb26c.woff2" />
+    <None Include="wwwroot\assets\fonts\themify9f24.eot" />
+    <None Include="wwwroot\assets\fonts\themify9f24.svg" />
+    <None Include="wwwroot\assets\fonts\themify9f24.ttf" />
+    <None Include="wwwroot\assets\fonts\themify9f24.woff" />
+    <None Include="wwwroot\assets\fonts\themifyd41d.eot" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-ipad-pro.png" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-ipad-retina.png" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-ipad.png" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-iphone-6-plus.png" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-iphone-retina.png" />
+    <None Include="wwwroot\assets\images\apple-touch-icon-iphone.png" />
+    <None Include="wwwroot\assets\images\blog\bloglist-1.jpg" />
+    <None Include="wwwroot\assets\images\blog\bloglist-2.jpg" />
+    <None Include="wwwroot\assets\images\blog\bloglist-3.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity1.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity2.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity2a.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity3.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity4.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity5.jpg" />
+    <None Include="wwwroot\assets\images\celebrities\celebrity6.jpg" />
+    <None Include="wwwroot\assets\images\favicon.png" />
+    <None Include="wwwroot\assets\images\icon-hd.png" />
+    <None Include="wwwroot\assets\images\icon.png" />
+    <None Include="wwwroot\assets\images\logo-white.svg" />
+    <None Include="wwwroot\assets\images\logo.svg" />
+    <None Include="wwwroot\assets\images\movies\upcoming-featured-item.jpg" />
+    <None Include="wwwroot\assets\images\movies\upcoming-item-1.jpg" />
+    <None Include="wwwroot\assets\images\movies\upcoming-item-2.jpg" />
+    <None Include="wwwroot\assets\images\other\actor-img.jpg" />
+    <None Include="wwwroot\assets\images\other\banner-arrow.png" />
+    <None Include="wwwroot\assets\images\other\browser.png" />
+    <None Include="wwwroot\assets\images\other\enjoy-movify.png" />
+    <None Include="wwwroot\assets\images\other\features.jpg" />
+    <None Include="wwwroot\assets\images\other\features2.jpg" />
+    <None Include="wwwroot\assets\images\other\find-movie.png" />
+    <None Include="wwwroot\assets\images\other\gradient-bg.jpg" />
+    <None Include="wwwroot\assets\images\other\home2-bg.jpg" />
+    <None Include="wwwroot\assets\images\other\landscape.jpg" />
+    <None Include="wwwroot\assets\images\other\movie-detail-bg.jpg" />
+    <None Include="wwwroot\assets\images\other\pricing.png" />
+    <None Include="wwwroot\assets\images\other\signup.png" />
+    <None Include="wwwroot\assets\images\other\touchkit.jpg" />
+    <None Include="wwwroot\assets\images\posters\movie-collection.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-1.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-2.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-3.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-4.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-5.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-6.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-7.jpg" />
+    <None Include="wwwroot\assets\images\posters\poster-8.jpg" />
+    <None Include="wwwroot\assets\images\slider\slider1.jpg" />
+    <None Include="wwwroot\assets\images\slider\slider2.jpg" />
+    <None Include="wwwroot\assets\images\slider\slider3.jpg" />
+    <None Include="wwwroot\assets\images\user.png" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\custom.js" />
+    <None Include="wwwroot\assets\js\headroom.js" />
+    <None Include="wwwroot\assets\js\imagesloaded.pkgd.min.js" />
+    <None Include="wwwroot\assets\js\isotope.pkgd.min.js" />
+    <None Include="wwwroot\assets\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\assets\js\jquery.ajaxchimp.js" />
+    <None Include="wwwroot\assets\js\jquery.countdown.min.js" />
+    <None Include="wwwroot\assets\js\jquery.countTo.min.js" />
+    <None Include="wwwroot\assets\js\jquery.inview.min.js" />
+    <None Include="wwwroot\assets\js\jquery.magnific-popup.min.js" />
+    <None Include="wwwroot\assets\js\jquery.mmenu.js" />
+    <None Include="wwwroot\assets\js\owl.carousel.min.js" />
+    <None Include="wwwroot\assets\revolution\assets\coloredbg.png" />
+    <None Include="wwwroot\assets\revolution\assets\gridtile.png" />
+    <None Include="wwwroot\assets\revolution\assets\gridtile_3x3.png" />
+    <None Include="wwwroot\assets\revolution\assets\gridtile_3x3_white.png" />
+    <None Include="wwwroot\assets\revolution\assets\gridtile_white.png" />
+    <None Include="wwwroot\assets\revolution\assets\loader.gif" />
+    <None Include="wwwroot\assets\revolution\css\closedhand.html" />
+    <None Include="wwwroot\assets\revolution\css\layers.css" />
+    <None Include="wwwroot\assets\revolution\css\navigation.css" />
+    <None Include="wwwroot\assets\revolution\css\openhand.html" />
+    <None Include="wwwroot\assets\revolution\css\settings.css" />
+    <None Include="wwwroot\assets\revolution\fonts\revicons\revicons90c6.eot" />
+    <None Include="wwwroot\assets\revolution\fonts\revicons\revicons90c6.svg" />
+    <None Include="wwwroot\assets\revolution\fonts\revicons\revicons90c6.ttf" />
+    <None Include="wwwroot\assets\revolution\fonts\revicons\revicons90c6.woff" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.actions.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.carousel.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.kenburn.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.layeranimation.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.migration.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.navigation.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.parallax.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.slideanims.min.js" />
+    <None Include="wwwroot\assets\revolution\js\extensions\revolution.extension.video.min.js" />
+    <None Include="wwwroot\assets\revolution\js\jquery.themepunch.revolution.min.js" />
+    <None Include="wwwroot\assets\revolution\js\jquery.themepunch.tools.min.js" />
+  </ItemGroup>
+
+</Project>

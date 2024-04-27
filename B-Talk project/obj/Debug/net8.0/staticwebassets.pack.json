@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\B-Talk project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\B-Talk project.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\colors.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\jquery.mmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mmenu.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-ipad-pro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-ipad-pro.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-ipad-retina.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-ipad-retina.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-ipad.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-ipad.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-iphone-6-plus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-iphone-6-plus.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-iphone-retina.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-iphone-retina.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\apple-touch-icon-iphone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-touch-icon-iphone.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\blog\\bloglist-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\bloglist-1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\blog\\bloglist-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\bloglist-2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\blog\\bloglist-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\bloglist-3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity2a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity2a.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity4.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity5.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\celebrities\\celebrity6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\celebrities\\celebrity6.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\icon-hd.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-hd.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\movies\\upcoming-featured-item.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\movies\\upcoming-featured-item.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\movies\\upcoming-item-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\movies\\upcoming-item-1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\movies\\upcoming-item-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\movies\\upcoming-item-2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\actor-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\actor-img.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\banner-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\banner-arrow.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\browser.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\browser.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\enjoy-movify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\enjoy-movify.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\features.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\features.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\features2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\features2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\find-movie.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\find-movie.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\gradient-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\gradient-bg.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\home2-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\home2-bg.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\landscape.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\landscape.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\movie-detail-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\movie-detail-bg.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\pricing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\pricing.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\signup.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\signup.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\other\\touchkit.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other\\touchkit.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\movie-collection.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\movie-collection.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-4.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-5.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-6.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-7.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\posters\\poster-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\posters\\poster-8.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\headroom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\headroom.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.ajaxchimp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.countTo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countTo.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.inview.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.inview.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\jquery.mmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mmenu.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\blog-list-fullwidth.html",
+      "PackagePath": "staticwebassets\\blog-list-fullwidth.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\blog-list.html",
+      "PackagePath": "staticwebassets\\blog-list.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\blog-post-detail-fullwidth.html",
+      "PackagePath": "staticwebassets\\blog-post-detail-fullwidth.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\blog-post-detail.html",
+      "PackagePath": "staticwebassets\\blog-post-detail.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\celebrities-grid.html",
+      "PackagePath": "staticwebassets\\celebrities-grid.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\celebrities-list.html",
+      "PackagePath": "staticwebassets\\celebrities-list.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\celebrity-detail.html",
+      "PackagePath": "staticwebassets\\celebrity-detail.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\coming-soon.html",
+      "PackagePath": "staticwebassets\\coming-soon.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\contact-us.html",
+      "PackagePath": "staticwebassets\\contact-us.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\index2.html",
+      "PackagePath": "staticwebassets\\index2.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\index3.html",
+      "PackagePath": "staticwebassets\\index3.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\index4.html",
+      "PackagePath": "staticwebassets\\index4.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\login-register.html",
+      "PackagePath": "staticwebassets\\login-register.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-detail.html",
+      "PackagePath": "staticwebassets\\movie-detail.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-detail2.html",
+      "PackagePath": "staticwebassets\\movie-detail2.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-grid.html",
+      "PackagePath": "staticwebassets\\movie-grid.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-grid2.html",
+      "PackagePath": "staticwebassets\\movie-grid2.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-grid3.html",
+      "PackagePath": "staticwebassets\\movie-grid3.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-grid4.html",
+      "PackagePath": "staticwebassets\\movie-grid4.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-list.html",
+      "PackagePath": "staticwebassets\\movie-list.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\movie-list2.html",
+      "PackagePath": "staticwebassets\\movie-list2.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\pricing.html",
+      "PackagePath": "staticwebassets\\pricing.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\testimonials.html",
+      "PackagePath": "staticwebassets\\testimonials.html"
+    },
+    {
+      "Id": "D:\\source\\repos\\B-Talk project\\B-Talk project\\wwwroot\\watch-later.html",
+      "PackagePath": "staticwebassets\\watch-later.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.B-Talk project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.B-Talk project.props",
+      "PackagePath": "build\\B-Talk project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.B-Talk project.props",
+      "PackagePath": "buildMultiTargeting\\B-Talk project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.B-Talk project.props",
+      "PackagePath": "buildTransitive\\B-Talk project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
