@@ -69,12 +69,12 @@ select {
         border-color: #2ecc71;
     }
 
-/*.box-selected .box-selected-1 {
-        color: #ffd800;*/ /* Màu chữ */
-/*background-color: #00ffff;*/ /* Màu nền */
-/*padding: 10px;*/ /* Khoảng cách giữa lề và nội dung */
-/*border-radius: 5px;*/ /* Bo tròn viền */
-/*}*/
+.box-selected .box-selected-1 {
+        color: #ffd800;  Màu chữ 
+background-color: #00ffff;  Màu nền 
+padding: 10px;  Khoảng cách giữa lề và nội dung 
+border-radius: 5px;  Bo tròn viền 
+}
 
 /* Điều chỉnh các phần tử menu dropdown tùy chọn nếu cần */
 .header__menu {
@@ -148,20 +148,20 @@ h5 {
 }
 
 
-/*.rating .star::before {
-    content: "\f005 ";*/ /* Icon ngôi sao rỗng - Font Awesome */
-/*margin-right: 5px;
+.rating .star::before {
+    content: "\f005 ";  Icon ngôi sao rỗng - Font Awesome 
+margin-right: 5px;
 }
 
 .play-button::before {
-    content: "\f04b ";*/ /* Icon play - Font Awesome */
-/*font-size: 24px;
+    content: "\f04b ";  Icon play - Font Awesome 
+font-size: 24px;
     color: #fff;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}*/
+}
 
 
 

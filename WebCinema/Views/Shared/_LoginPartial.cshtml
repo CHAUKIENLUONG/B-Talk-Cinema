@@ -2,7 +2,8 @@
 
 @inject SignInManager<ApplicationUser> SignInManager
 @inject UserManager<ApplicationUser> UserManager
-
+<link href="~/content/css/colors.css" rel="stylesheet" />
+<link href="~/content/css/font-awesome.min.css" rel="stylesheet" />
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
@@ -20,8 +21,8 @@ else
     @* <li class="nav-item">
             <a class="nav-link text-dark" id="register" asp-area="Identity" asp-page="/Account/Register"><span class="icon_search"></span></a>
     </li> *@
-    <li class="nav-item">
-            <a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login"><span class="icon_profile"></span></a>
+        <li class="nav-item m-auto">
+            <a class="btn btn-main btn-effect login-btn popup-with-zoom-anim" id="login" asp-area="Identity" asp-page="/Account/Login"><span class="icon_profile"></span> Login</a>
     </li>
 }
 </ul>
